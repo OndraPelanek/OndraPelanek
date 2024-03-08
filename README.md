@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OndraPelanek, MSci Biological Sciences student at UCL
+- 👋 Hi, I’m Ondrej Pelanek, MSci Biological Sciences student at UCL
 - 👀 I’m interested in biodiversity research
 
 <!---
